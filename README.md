@@ -1,2 +1,2 @@
 # DEA-Project
-DEA Project
+Ozone student management system
